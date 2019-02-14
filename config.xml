@@ -2,12 +2,14 @@
 <widget id="com.aereng.homesafe" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>HomeSafe</name>
     <description>
-        Panic button.
+        A blank PhoneGap app.
     </description>
-    <author email="martin.curzel@gmail.com">
-        Aereng
+    <author email="support@phonegap.com" href="http://phonegap.com">
+        PhoneGap Team
     </author>
     <content src="index.html" />
     <access origin="*" />
+
     <plugin name="cordova-plugin-contact-number-picker" source "npm"/>
+    
 </widget>
