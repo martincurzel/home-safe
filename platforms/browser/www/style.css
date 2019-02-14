@@ -1,0 +1,94 @@
+@charset "UTF-8";
+
+body {
+  background: #ebe1ef;
+}
+
+header {
+  font-family: 'Lobster', cursive;
+  padding: 0px 0px;
+  text-align: center;
+  color: white;
+  font-size: 45px;
+  width: 100%;
+  height: 60px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 5;
+  background: #c874c2;
+  box-shadow: 0px 2px 4px rgba(44, 62, 80, 0.15);
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+
+header .lbutton {
+  width: 34px;
+  height: 34px;
+  position: absolute;
+  top: 13px;
+  left: 15px;
+  background: #c874c2;
+  outline: none;
+  border: 0px;
+}
+
+header .lbutton svg {
+  width: 34px;
+  height: 34px;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  margin: 0px 0 0 0px;
+}
+
+header .lbutton svg .fill{
+  fill: #fff;
+}
+
+header .rbutton {
+  width: 34px;
+  height: 34px;
+  position: absolute;
+  top: 13px;
+  right: 15px;
+  background: #c874c2;
+  outline: none;
+  border: 0px;
+}
+
+header .rbutton svg {
+  width: 34px;
+  height: 34px;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  margin: 0px 0 0 0px;
+}
+
+header .rbutton svg .fill{
+  fill: #fff;
+}
+
+.contenedor {
+  text-align: center;
+}
+
+.emergencia {
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+  color: #fff;
+  width: 150px;
+  height: 150px;
+  position: relative;
+  top: 90px;
+  background: #e05431;
+  border-bottom-right-radius: 75px;
+  border-bottom-left-radius: 75px;
+  border-top-right-radius: 75px;
+  border-top-left-radius: 75px;
+  box-shadow: 8px 8px 0px #bc674d;
+  outline: none;
+  border: 0px;
+}
