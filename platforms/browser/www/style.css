@@ -23,7 +23,7 @@ header {
 }
 
 
-header .lbutton {
+header .addContact {
   width: 34px;
   height: 34px;
   position: absolute;
@@ -34,7 +34,7 @@ header .lbutton {
   border: 0px;
 }
 
-header .lbutton svg {
+header .addContact svg {
   width: 34px;
   height: 34px;
   position: absolute;
@@ -43,7 +43,7 @@ header .lbutton svg {
   margin: 0px 0 0 0px;
 }
 
-header .lbutton svg .fill{
+header .addContact svg .fill{
   fill: #fff;
 }
 

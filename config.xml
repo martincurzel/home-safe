@@ -10,6 +10,6 @@
     <content src="index.html" />
     <access origin="*" />
 
-    <plugin name="cordova-plugin-contact-number-picker" source="npm"/>
+    <plugin name="cordova-plugin-contacts" source="npm"/>
 
 </widget>
